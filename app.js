@@ -73,8 +73,7 @@ app.delete('/tea/:id', (req, res, next) => {
 })
 
 const PORT = process.env.PORT || 3000;
-const hostName = '127.0.0.1';
 
-app.listen(PORT, hostName, () => {
-  console.log(`Server is running at http://${hostName}:${PORT}`);
+app.listen(PORT, () => {
+  console.log(`Server is running on port: ${PORT}`);
 })
