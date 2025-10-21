@@ -1,0 +1,14 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"28.694\"}","timestamp":"2025-10-21T04:40:48.085Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"0.807\"}","timestamp":"2025-10-21T04:40:51.114Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Hello world","timestamp":"2025-10-21T04:42:03.793Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Errors can occur","timestamp":"2025-10-21T04:42:03.797Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"31.327\"}","timestamp":"2025-10-21T04:42:03.802Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Hello world","timestamp":"2025-10-21T04:42:09.295Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Errors can occur","timestamp":"2025-10-21T04:42:09.295Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"3.075\"}","timestamp":"2025-10-21T04:42:09.298Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Hello world","timestamp":"2025-10-21T04:42:12.680Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Errors can occur","timestamp":"2025-10-21T04:42:12.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/tea\",\"status\":\"200\",\"responseTime\":\"2.274\"}","timestamp":"2025-10-21T04:42:12.683Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.797\"}","timestamp":"2025-10-21T04:42:19.866Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Invalid index!","timestamp":"2025-10-21T04:42:36.312Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/tea/0\",\"status\":\"404\",\"responseTime\":\"2.245\"}","timestamp":"2025-10-21T04:42:36.314Z"}
